@@ -1,0 +1,5 @@
+C:\Workspace\vs2010\AutoMapperBootcamp\bin\Com.Swzhou.Automapper.Bootcamp.dll
+C:\Workspace\vs2010\AutoMapperBootcamp\bin\Com.Swzhou.Automapper.Bootcamp.pdb
+C:\Workspace\vs2010\AutoMapperBootcamp\AutoMapperBootcamp\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\vs2010\AutoMapperBootcamp\AutoMapperBootcamp\obj\Debug\Com.Swzhou.Automapper.Bootcamp.dll
+C:\Workspace\vs2010\AutoMapperBootcamp\AutoMapperBootcamp\obj\Debug\Com.Swzhou.Automapper.Bootcamp.pdb

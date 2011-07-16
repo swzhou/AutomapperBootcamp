@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperBootcamp", "AutoMapperBootcamp\AutoMapperBootcamp.csproj", "{6B0DDA76-BDA8-47E2-A667-0D7204A920BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{626BBEDA-856A-4D92-A238-03218CED809E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0DDA76-BDA8-47E2-A667-0D7204A920BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0DDA76-BDA8-47E2-A667-0D7204A920BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0DDA76-BDA8-47E2-A667-0D7204A920BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0DDA76-BDA8-47E2-A667-0D7204A920BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626BBEDA-856A-4D92-A238-03218CED809E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626BBEDA-856A-4D92-A238-03218CED809E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626BBEDA-856A-4D92-A238-03218CED809E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626BBEDA-856A-4D92-A238-03218CED809E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
