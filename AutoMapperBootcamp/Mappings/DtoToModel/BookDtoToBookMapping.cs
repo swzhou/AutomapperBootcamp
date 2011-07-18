@@ -11,15 +11,10 @@ namespace Com.Swzhou.Automapper.Bootcamp.Mappings.DtoToModel
     {
         protected override void MapMembers(IMappingExpression<BookDto, Book> map)
         {
-            map.ForMember(d => d.Description, opt => opt.MapFrom(s => s.Description))
-                .ForMember(d => d.Language, opt => opt.MapFrom(s => s.Language))
-                .ForMember(d => d.Paperback, opt => opt.MapFrom(s => s.Paperback))
-                .ForMember(d => d.Price, opt => opt.MapFrom(s => s.Price))
-                .ForMember(d => d.PublishDate, opt => opt.MapFrom(s => s.PublishDate))
+            map
                 //                .ForMember(d => d.Publisher,
                 //                           opt => opt.ResolveUsing<PublisherValueResolver>()
                 //                                      .ConstructedBy(() => new PublisherValueResolver()))
-                .ForMember(d => d.Title, opt => opt.MapFrom(s => s.Title))
                 .ForMember(d => d.Authors,
                            opt => opt.ResolveUsing<AuthorsValueResolver>()
                                       .ConstructedBy(() => new AuthorsValueResolver()));

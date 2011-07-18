@@ -3,12 +3,75 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_dto_to_author.cs" caret="1060" fromTop="25" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_bookdto_with_non_null_first_author_and_null_second_author_to_book.cs" caret="936" fromTop="24" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_bookdto_with_null_first_author_and_non_null_second_author_to_book.cs" caret="835" fromTop="13" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Models/f:Address.cs" caret="272" fromTop="10" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Models/f:Book.cs" caret="498" fromTop="14" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Models/f:Author.cs" caret="213" fromTop="6" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Models/f:ContactInfo.cs" caret="203" fromTop="6" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/f:DefaultMapping.cs" caret="351" fromTop="13" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_store_dto_to_bookstore.cs" caret="1994" fromTop="26" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Models/f:BookStore.cs" caret="87" fromTop="3" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Dtos/f:BookStoreDto.cs" caret="104" fromTop="4" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_address_dto_to_address.cs" caret="1382" fromTop="20" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Models/f:Publisher.cs" caret="137" fromTop="6" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Dtos/f:BookDto.cs" caret="236" fromTop="8" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookStoreDtoToBookStoreMapping.cs" caret="0" fromTop="0" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:AddressDtoToAddressMapping.cs" caret="0" fromTop="0" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_dto_to_contact_info.cs" caret="2041" fromTop="16" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Dtos/f:AddressDto.cs" caret="268" fromTop="8" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToSecondAuthorMapping.cs" caret="0" fromTop="0" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToSecondAuthorContactInfoMapping.cs" caret="0" fromTop="0" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/f:DefaultValueResolver.cs" caret="150" fromTop="4" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorContactInfoMapping.cs" caret="827" fromTop="17" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorMapping.cs" caret="354" fromTop="6" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToPublisherMapping.cs" caret="0" fromTop="0" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/f:IMapping.cs" caret="361" fromTop="15" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:Engine.cs" caret="180" fromTop="11" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:PublisherNameToPublisherMapping.cs" caret="397" fromTop="10" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="243" fromTop="5" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToBookMapping.cs" caret="1102" fromTop="7" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/f:MyMapper.cs" caret="1024" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_bookdto_with_non_null_first_author_and_null_second_author_to_book.cs" caret="969" fromTop="24" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1533" fromTop="20" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_address_dto_to_address.cs" caret="1394" fromTop="25" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_address_dto_to_address.cs" caret="1394" fromTop="16" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_address_dto_to_address.cs" caret="1382" fromTop="31" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_address_dto_to_address.cs" caret="1382" fromTop="20" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1533" fromTop="6" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_store_dto_to_bookstore.cs" caret="1994" fromTop="19" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_store_dto_to_bookstore.cs" caret="1994" fromTop="31" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_store_dto_to_bookstore.cs" caret="1994" fromTop="5" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToBookMapping.cs" caret="474" fromTop="14" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToBookMapping.cs" caret="474" fromTop="10" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToBookMapping.cs" caret="745" fromTop="14" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_dto_to_contact_info.cs" caret="2041" fromTop="19" />
+      <File id="626BBEDA-856A-4D92-A238-03218CED809E/d:DtoToModel/f:when_map_book_dto_to_contact_info.cs" caret="2041" fromTop="16" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorMapping.cs" caret="867" fromTop="27" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorMapping.cs" caret="867" fromTop="21" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorMapping.cs" caret="867" fromTop="16" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorMapping.cs" caret="452" fromTop="9" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorMapping.cs" caret="1594" fromTop="27" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToFirstAuthorMapping.cs" caret="1594" fromTop="10" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToBookMapping.cs" caret="2099" fromTop="19" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1533" fromTop="14" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1533" fromTop="30" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1533" fromTop="19" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1533" fromTop="19" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1533" fromTop="75" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="1530" fromTop="0" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Engines/f:MappingEngineProvider.cs" caret="188" fromTop="2" />
+      <File id="6B0DDA76-BDA8-47E2-A667-0D7204A920BB/d:Mappings/d:DtoToModel/f:BookDtoToBookMapping.cs" caret="1379" fromTop="12" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -21,4 +84,403 @@
     </NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Establish" priority="2" />
+      <Item value="It" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="public" priority="53" />
+      <Item value="string" priority="30" />
+      <Item value="double" priority="0" />
+      <Item value="class" priority="18" />
+      <Item value="List" priority="3" />
+      <Item value="int" priority="0" />
+      <Item value="protected" priority="10" />
+      <Item value="static" priority="22" />
+      <Item value="Dto" priority="8" />
+      <Item value="new" priority="41" />
+      <Item value="BookDto" priority="2" />
+      <Item value="FirstAuthorEmail" priority="2" />
+      <Item value="FirstAuthorName" priority="4" />
+      <Item value="FirstAuthorBlog" priority="0" />
+      <Item value="SecondAuthorEmail" priority="0" />
+      <Item value="SecondAuthorTwitter" priority="0" />
+      <Item value="Because`0" priority="5" />
+      <Item value="ContactOfSecondAuthor" priority="0" />
+      <Item value="BookDto`0" priority="30" />
+      <Item value="ContactInfo`0" priority="12" />
+      <Item value="ContactOfFirstAuthor" priority="0" />
+      <Item value="source" priority="24" />
+      <Item value="private" priority="12" />
+      <Item value="MappingEngine" priority="5" />
+      <Item value="if" priority="5" />
+      <Item value="_basic" priority="3" />
+      <Item value="null" priority="8" />
+      <Item value="return" priority="24" />
+      <Item value="Configuration`0" priority="2" />
+      <Item value="TypeMapFactory" priority="0" />
+      <Item value="MapperRegistry" priority="0" />
+      <Item value="config" priority="15" />
+      <Item value="MappingEngine`0" priority="4" />
+      <Item value="_first" priority="3" />
+      <Item value="_second" priority="1" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="Dictionary&lt;string,MappingEngine&gt;" priority="0" />
+      <Item value="MapEngineProvider`0" priority="0" />
+      <Item value="_engines" priority="0" />
+      <Item value="TSource`0" priority="2" />
+      <Item value="TTarget`0" priority="4" />
+      <Item value="ContactInfo" priority="3" />
+      <Item value="d" priority="16" />
+      <Item value="s" priority="18" />
+      <Item value="opt" priority="16" />
+      <Item value="TSource" priority="0" />
+      <Item value="BookDtoToContactInfoMapping`0" priority="0" />
+      <Item value="interface" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="abstract" priority="8" />
+      <Item value="Mapping" priority="0" />
+      <Item value="readonly" priority="1" />
+      <Item value="_engine" priority="6" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="IMapping`0" priority="6" />
+      <Item value="Mappings" priority="1" />
+      <Item value="IList" priority="0" />
+      <Item value="foreach" priority="2" />
+      <Item value="mapping" priority="5" />
+      <Item value="EngineProvier`0" priority="2" />
+      <Item value="List&lt;IMapping&gt;" priority="2" />
+      <Item value="FirstEngineProvider`0" priority="0" />
+      <Item value="BasicEngineProvider`0" priority="0" />
+      <Item value="SecondEngineProvider`0" priority="0" />
+      <Item value="BasicEngineProvider" priority="0" />
+      <Item value="FirstEngineProvider" priority="0" />
+      <Item value="SecondEngineProvider" priority="0" />
+      <Item value="BookDtoToSecondAuthorContactInfoAbstractMapping`0" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="Engines`0" priority="0" />
+      <Item value="EngineTag`0" priority="2" />
+      <Item value="Tag`0" priority="11" />
+      <Item value="Author`0" priority="12" />
+      <Item value="const" priority="1" />
+      <Item value="SecondAuthorName" priority="5" />
+      <Item value="SecondAuthorBlog" priority="3" />
+      <Item value="FirstAuthor" priority="4" />
+      <Item value="SecondAuthor" priority="4" />
+      <Item value="SecondAuthorDescription" priority="3" />
+      <Item value="AbstractMapping" priority="4" />
+      <Item value="map" priority="10" />
+      <Item value="BookDtoToSecondAuthorMapping`0" priority="1" />
+      <Item value="BookDtoToFirstAuthorMapping`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="MyMapper`0" priority="8" />
+      <Item value="First" priority="2" />
+      <Item value="Second" priority="2" />
+      <Item value="SecondAuthorContactInfoResolver`0" priority="1" />
+      <Item value="Func&lt;FirstAuthorContactInfoResolver&gt;" priority="0" />
+      <Item value="FirstAuthorContactInfoResolver" priority="0" />
+      <Item value="virtual" priority="1" />
+      <Item value="Attribute" priority="1" />
+      <Item value="ApplyTo" priority="9" />
+      <Item value="Assembly" priority="0" />
+      <Item value="ApplyToAttribute`0" priority="2" />
+      <Item value="type" priority="4" />
+      <Item value="Contains`1" priority="0" />
+      <Item value="typeof" priority="3" />
+      <Item value="Attribute`0" priority="0" />
+      <Item value="Activator`0" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="_tag" priority="0" />
+      <Item value="attributes" priority="0" />
+      <Item value="Any`1" priority="0" />
+      <Item value="attr" priority="0" />
+      <Item value="EngineProvider`0" priority="2" />
+      <Item value="var" priority="4" />
+      <Item value="Type`0" priority="1" />
+      <Item value="GetMappingTypes`0" priority="0" />
+      <Item value="Applicable`0" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="tag" priority="0" />
+      <Item value="t" priority="0" />
+      <Item value="Publisher`0" priority="5" />
+      <Item value="Publisher" priority="8" />
+      <Item value="It`0" priority="2" />
+      <Item value="PublisherName" priority="0" />
+      <Item value="Engine`0" priority="15" />
+      <Item value="Description" priority="1" />
+      <Item value="Title" priority="1" />
+      <Item value="Price" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="PublishDate" priority="1" />
+      <Item value="DateTime" priority="0" />
+      <Item value="Book" priority="23" />
+      <Item value="BookTitle" priority="0" />
+      <Item value="BookDescription" priority="0" />
+      <Item value="BookPrice" priority="0" />
+      <Item value="firstAuthor" priority="10" />
+      <Item value="secondAuthor" priority="7" />
+      <Item value="PublisherValueResolver" priority="0" />
+      <Item value="AuthorsValueResolver" priority="0" />
+      <Item value="Author" priority="2" />
+      <Item value="List&lt;Author&gt;" priority="2" />
+      <Item value="ValueResolver" priority="2" />
+      <Item value="engine" priority="4" />
+      <Item value="AuthorContactInfoResolver`0" priority="1" />
+      <Item value="bool" priority="3" />
+      <Item value="IsNullTarget`0" priority="0" />
+      <Item value="DoResolve`0" priority="0" />
+      <Item value="where" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="Nullable`0" priority="0" />
+      <Item value="default" priority="0" />
+      <Item value="DefaultValueResolver" priority="0" />
+      <Item value="Book`0" priority="2" />
+      <Item value="author" priority="3" />
+      <Item value="AuthorIsNull`0" priority="1" />
+      <Item value="first" priority="2" />
+      <Item value="second" priority="3" />
+      <Item value="ToList`0" priority="0" />
+      <Item value="TypeConverter" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="BookDtoToPublisherConverter" priority="0" />
+      <Item value="MyMapper" priority="2" />
+      <Item value="Address" priority="11" />
+      <Item value="AddressDto" priority="2" />
+      <Item value="Country" priority="2" />
+      <Item value="City" priority="2" />
+      <Item value="Street" priority="1" />
+      <Item value="PostCode" priority="1" />
+      <Item value="AddressDto`0" priority="3" />
+      <Item value="BookStoreDto" priority="1" />
+      <Item value="BookStore" priority="10" />
+      <Item value="Books" priority="0" />
+      <Item value="List&lt;Book&gt;" priority="0" />
+      <Item value="BookStoreDto`0" priority="2" />
+      <Item value="DefaultMapping" priority="0" />
+      <Item value="Blog" priority="1" />
+      <Item value="dto" priority="2" />
+      <Item value="Email" priority="1" />
+      <Item value="Twitter" priority="1" />
+      <Item value="Mapper`0" priority="8" />
+      <Item value="Address`0" priority="1" />
+      <Item value="address" priority="5" />
+      <Item value="BookStore`0" priority="0" />
+      <Item value="Mapper" priority="0" />
+      <Item value="Dtos" priority="0" />
+      <Item value="SimpleMappingEngineProvider`0" priority="1" />
+      <Item value="Dictionary&lt;Engine,List&lt;IMapping&gt;&gt;" priority="0" />
+      <Item value="_rules" priority="1" />
+      <Item value="r" priority="0" />
+      <Item value="BookDtoToFirstAuthorMapping" priority="0" />
+      <Item value="SimpleMappingEngineProvider" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ShouldBeTrue`0" priority="1" />
+      <Item value="ShouldBeFalse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Models.ContactInfo">
+      <Item value="Email" priority="4" />
+      <Item value="Blog" priority="3" />
+      <Item value="Twitter" priority="2" />
+      <Item value="ShouldNotBeNull`0" priority="3" />
+      <Item value="ShouldBeNull`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldEqual`1" priority="25" />
+      <Item value="ShouldBeNull`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AutoMapper.Mappers.MapperRegistry">
+      <Item value="AllMappers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Mappings.MapEngineProvider">
+      <Item value="GetBasic`0" priority="0" />
+      <Item value="GetFirst`0" priority="0" />
+      <Item value="GetSecond`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.MappingEngine">
+      <Item value="Map`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.Configuration">
+      <Item value="CreateMap`0" priority="1" />
+      <Item value="Add`0" priority="2" />
+      <Item value="AllowNullDestinationValues" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IMappingExpression`2">
+      <Item value="ForMember`0" priority="16" />
+      <Item value="ConvertUsing`1" priority="1" />
+      <Item value="ConstructUsing`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IMemberConfigurationExpression`1">
+      <Item value="MapFrom`1" priority="12" />
+      <Item value="ResolveUsing`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Dtos.BookDto">
+      <Item value="FirstAuthorEmail" priority="3" />
+      <Item value="FirstAuthorBlog" priority="4" />
+      <Item value="FirstAuthorTwitter" priority="3" />
+      <Item value="SecondAuthorEmail" priority="0" />
+      <Item value="SecondAuthorBlog" priority="0" />
+      <Item value="SecondAuthorTwitter" priority="0" />
+      <Item value="FirstAuthorName" priority="1" />
+      <Item value="FirstAuthorDescription" priority="1" />
+      <Item value="Publisher" priority="3" />
+      <Item value="Description" priority="0" />
+      <Item value="Language" priority="0" />
+      <Item value="Paperback" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="PublishDate" priority="0" />
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Mappings.BookDtoToContactInfoMapping">
+      <Item value="Build`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Each`1" priority="1" />
+      <Item value="ToList`1" priority="2" />
+      <Item value="Where`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Mappings.IMapping">
+      <Item value="AddTo`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Engines.BasicEngineProvider">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Engines.FirstEngineProvider">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Engines.SecondEngineProvider">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.Engines">
+      <Item value="Basic" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.EngineName">
+      <Item value="First" priority="0" />
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.EngineTag">
+      <Item value="First" priority="0" />
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.Tag">
+      <Item value="Basic" priority="1" />
+      <Item value="First" priority="3" />
+      <Item value="Second" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Models.Author">
+      <Item value="Name" priority="5" />
+      <Item value="ContactInfo" priority="14" />
+      <Item value="Description" priority="3" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="ShouldNotBeNull`0" priority="1" />
+      <Item value="IsNull`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.MyMapper">
+      <Item value="Map`2" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IResolverConfigurationExpression`2">
+      <Item value="ConstructedBy`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetAssembly`0" priority="1" />
+      <Item value="GetExecutingAssembly`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Assembly" priority="0" />
+      <Item value="GetInterfaces`0" priority="0" />
+      <Item value="Attributes" priority="0" />
+      <Item value="GetCustomAttributes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Attribute">
+      <Item value="IsDefined`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Mappings.ApplyToAttribute">
+      <Item value="Tag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.EngineProvider">
+      <Item value="Basic" priority="0" />
+      <Item value="First" priority="0" />
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Engines.Tag">
+      <Item value="ApplyTo`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.MyMapper">
+      <Item value="Map`2" priority="9" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Models.Publisher">
+      <Item value="Name" priority="3" />
+      <Item value="ShouldNotBeNull`0" priority="1" />
+      <Item value="ShouldBeNull`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.Engine">
+      <Item value="Basic" priority="5" />
+      <Item value="Second" priority="5" />
+      <Item value="First" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Models.Book">
+      <Item value="Description" priority="2" />
+      <Item value="Title" priority="2" />
+      <Item value="Language" priority="1" />
+      <Item value="Paperback" priority="1" />
+      <Item value="Price" priority="1" />
+      <Item value="PublishDate" priority="1" />
+      <Item value="Publisher" priority="4" />
+      <Item value="Authors" priority="8" />
+      <Item value="ShouldNotBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ShouldBeNull`0" priority="0" />
+      <Item value="ShouldEqual`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ShouldEqual`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="3" />
+      <Item value="ForEach`0" priority="3" />
+      <Item value="Select`2" priority="0" />
+      <Item value="First`1" priority="2" />
+      <Item value="Last`1" priority="1" />
+      <Item value="ShouldBeNull`0" priority="0" />
+      <Item value="ShouldNotBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldEqual`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Models.Address">
+      <Item value="Country" priority="3" />
+      <Item value="City" priority="3" />
+      <Item value="Street" priority="2" />
+      <Item value="PostCode" priority="2" />
+      <Item value="ShouldBeNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Models.BookStore">
+      <Item value="Name" priority="0" />
+      <Item value="Address" priority="0" />
+      <Item value="Books" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AutoMapper.Mapper">
+      <Item value="CreateMap`0" priority="5" />
+      <Item value="Map`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Com.Swzhou.Automapper.Bootcamp.Engines.SimpleMappingEngineProvider">
+      <Item value="First" priority="0" />
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Com.Swzhou.Automapper.Bootcamp.Engines.SimpleMappingEngineProvider">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

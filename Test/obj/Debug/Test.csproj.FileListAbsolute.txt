@@ -6,4 +6,3 @@ C:\Workspace\vs2010\AutoMapperBootcamp\Test\bin\Machine.Specifications.dll
 C:\Workspace\vs2010\AutoMapperBootcamp\Test\bin\Com.Swzhou.Automapper.Bootcamp.pdb
 C:\Workspace\vs2010\AutoMapperBootcamp\Test\obj\Debug\Test.Com.Swzhou.Automapper.Bootcamp.dll
 C:\Workspace\vs2010\AutoMapperBootcamp\Test\obj\Debug\Test.Com.Swzhou.Automapper.Bootcamp.pdb
-C:\Workspace\vs2010\AutoMapperBootcamp\Test\bin\AutoMapper.dll

@@ -1,3 +1,4 @@
+using AutoMapper;
 using Com.Swzhou.Automapper.Bootcamp;
 using Com.Swzhou.Automapper.Bootcamp.Dtos;
 using Com.Swzhou.Automapper.Bootcamp.Models;

@@ -1,3 +1,4 @@
+using AutoMapper;
 using Com.Swzhou.Automapper.Bootcamp;
 using Com.Swzhou.Automapper.Bootcamp.Dtos;
 using Com.Swzhou.Automapper.Bootcamp.Engines;
@@ -39,7 +40,7 @@ namespace Test.Com.Swzhou.Automapper.Bootcamp.DtoToModel
             ContactOfFirstAuthor.Blog.ShouldEqual(FirstAuthorBlog);
             ContactOfFirstAuthor.Twitter.ShouldBeNull();
         };
-        
+
         It should_succeed_to_set_member_values_of_contact_of_second_author = () =>
         {
             ContactOfSecondAuthor.Email.ShouldBeNull();

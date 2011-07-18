@@ -5,7 +5,6 @@ using System.Reflection;
 using AutoMapper;
 using AutoMapper.Mappers;
 using Com.Swzhou.Automapper.Bootcamp.Mappings;
-using Com.Swzhou.Automapper.Bootcamp.Models;
 
 namespace Com.Swzhou.Automapper.Bootcamp.Engines
 {
@@ -19,8 +18,7 @@ namespace Com.Swzhou.Automapper.Bootcamp.Engines
 
         public MappingEngineProvider(Engine engine)
         {
-            var config = new Configuration(new TypeMapFactory(), MapperRegistry.AllMappers())
-                             {AllowNullDestinationValues = true};
+            var config = new Configuration(new TypeMapFactory(), MapperRegistry.AllMappers());
             GetMappingTypesTaggedWith(engine)
                 .Select(type => (IMapping) Activator.CreateInstance(type))
                 .ToList().ForEach(config.Add);
